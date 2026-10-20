@@ -146,9 +146,6 @@ Detection delay: 0.02 s
 
 ---
 
-## Connection to Thesis Work
-
-This project directly extends the Anti-Windup control work from the M.Sc. thesis. The inverted pendulum is the same benchmark system used in the thesis. The observer-based residual generation is a natural extension of the state observer theory covered in the Fault Diagnosis and Fault Tolerance course at Universität Duisburg-Essen.
 
 ---
 
